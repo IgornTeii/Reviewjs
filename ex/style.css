@@ -1,0 +1,12 @@
+
+h1{
+    color: cornflowerblue;
+}
+
+label[for="idTarefa"]{
+    display: block;
+}
+
+#btnAddTarefa{
+    background-color: cornflowerblue;
+}
